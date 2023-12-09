@@ -56,7 +56,7 @@ Feel free to customize the script by modifying the list of questions, adjusting 
 ## Disclaimer
 This script relies on OpenAI's GPT-3.5 Turbo, and you are responsible for complying with OpenAI's usage policies and terms.
 
-Please refer to the respective documentation for LangChain and OpenAI for more details.
+Please refer to the respective documentation for [LangChain](https://python.langchain.com/docs/get_started/introduction) and [OpenAI](https://platform.openai.com/docs/introduction) for more details.
 
 Happy coding!
 
