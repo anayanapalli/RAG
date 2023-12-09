@@ -15,13 +15,13 @@ Credit: This architecture diagram is clipped from [this](https://www.pinecone.io
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/anayanapalli/RAG.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd your-repository
+cd RAG
 ```
 
 3. Create a virtual environment (optional but recommended):
