@@ -3,6 +3,11 @@
 ## Overview
 This repository contains a Jupyter notebook that leverages the LangChain library, OpenAI's GPT-3.5 Turbo, and FAISS (Facebook AI Similarity Search) to perform document retrieval and question answering. The notebook processes a PDF document and answers a set of predefined questions using a combination of language models and embeddings.
 
+## Architecture
+
+<img width="1009" alt="Screenshot 2023-12-09 at 16 23 16" src="https://github.com/anayanapalli/RAG/assets/70435675/ec6e395b-702d-40ce-95c0-0ed7547effff">
+
+
 ## Usage
 
 1. Clone this repository:
