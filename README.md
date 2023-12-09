@@ -8,7 +8,7 @@ This repository contains a Jupyter notebook that leverages the LangChain library
 <img width="1009" alt="Screenshot 2023-12-09 at 16 23 16" src="https://github.com/anayanapalli/RAG/assets/70435675/ec6e395b-702d-40ce-95c0-0ed7547effff">
 
 
-Architecture diagram clipped from [this](https://www.pinecone.io/learn/retrieval-augmented-generation/) great blog post on RAG.
+Credit: This architecture diagram is clipped from [this](https://www.pinecone.io/learn/retrieval-augmented-generation/) great blog post on RAG.
 
 ## Usage
 
