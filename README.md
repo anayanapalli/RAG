@@ -1,7 +1,7 @@
 # Retrieval Augmented Generation
 
 ## Overview
-This repository contains a iPython notebook that leverages the LangChain library, OpenAI's GPT-3.5 Turbo, and FAISS (Facebook AI Similarity Search) to perform document retrieval and question answering. The script processes a PDF document and answers a set of predefined questions using a combination of language models and embeddings.
+This repository contains an iPython notebook that leverages the LangChain library, OpenAI's GPT-3.5 Turbo, and FAISS (Facebook AI Similarity Search) to perform document retrieval and question answering. The script processes a PDF document and answers a set of predefined questions using a combination of language models and embeddings.
 ## Prerequisites
 Before running the script, ensure you have the following prerequisites installed:
 
